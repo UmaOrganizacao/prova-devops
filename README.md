@@ -1,8 +1,8 @@
 # tibia_bosses_kill_statistics
 
-Get kill statistics of a boss or all bosses of a Tibia World.
+Obtém estatísticas de mortes de bosses de mundos do Tibia.
 
-Usage example:
+Como usar:
 
 ```
 python main.py --world Antica
